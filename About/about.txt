@@ -1,0 +1,7 @@
+Title: Assignment-ML-24204
+Domain: ML
+Tags: Python, Machine Learning, Coursework, Assignments
+Year: 2024
+
+About:
+This repository contains code and exercises for a machine learning course. It focuses on learning and applying core ML concepts through practical assignments and experiments.
